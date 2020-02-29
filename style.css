@@ -436,6 +436,28 @@ footer p{
     background-color: #F4F4F4;
     margin-top:-10px
 }
+.attributes{
+    margin: 5%;
+    padding: 5% 5% 5% 10%;
+}
+
+.attribute{
+    display: flex;
+    margin: 5%;
+    
+}
+
+.attribute p{
+    margin-left: 25px;
+}
+
+.pinky-text{
+    color: #ED145B ;
+}
+
+.attribute-image{
+
+}
 
 @media only screen and (max-width: 768px) {
    
